@@ -1,0 +1,69 @@
+# =====================================================================
+#  Rede de seguranca: arquivo de jogo NUNCA pode entrar neste repositorio
+# =====================================================================
+#
+#  Este repositorio e so documentacao. Os instaladores e os zips vao como
+#  anexo de Release, nao commitados - binario em git fica no historico
+#  para sempre e incha o clone de todo mundo.
+#
+#  As extensoes abaixo sao conteudo de jogo. Se alguma aparecer aqui, foi
+#  engano. No git o estrago e permanente: apagar num commit seguinte NAO
+#  tira o arquivo do historico.
+# =====================================================================
+
+# pacotes e dados de jogo
+*.dbfs
+*.mpck
+*.unity3d
+*.assets
+*.resource
+*.bundle
+*.bin
+*.dat
+*.pak
+*.arc
+*.wad
+*.bsa
+*.vpk
+*.ivt
+
+# codigo e recursos de jogo
+*.lua
+*.dds
+*.model
+*.shader
+*.level
+*.material
+*.cinematic
+*.hlsl
+*.screenfx
+*.animation_graph
+
+# midia
+*.fev
+*.fsb
+*.mp3
+*.ogg
+*.wav
+*.mp4
+*.bik
+*.usm
+
+# executaveis e bibliotecas
+*.exe
+*.dll
+*.msi
+
+# pacotes montados (vao como anexo de Release)
+*.zip
+
+# pastas de trabalho que costumam guardar copia do jogo
+orig/
+originais/
+backup_jogo/
+build/
+
+# lixo do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
