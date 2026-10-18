@@ -17,16 +17,13 @@ Feitas por **kassuii**.
 | [Xuan-Yuan Sword VI: The Gate of Firmament](jogos/xuan-yuan-sword-vi.md) | 24.904 | instalador |
 | [Little Goody Two Shoes](jogos/little-goody-two-shoes.md) | 16.998 | instalador |
 | [Let's School](jogos/lets-school.md) | 12.832 | instalador |
+| [Recettear: An Item Shop's Tale](jogos/recettear.md) | 7.631 | instalador |
 | [Warcraft III: The Frozen Throne](jogos/warcraft-iii.md) | 5.735 | instalador |
 | [Natural Selection 2](jogos/natural-selection-2.md) | 3.666 | instalador |
 | [Horticular](jogos/horticular.md) | 1.991 | Oficina Steam ou instalador |
+| [Chantelise: A Tale of Two Sisters](jogos/chantelise.md) | 1.397 | instalador |
 
 Os arquivos ficam na página de **[Releases](../../releases)**.
-
-### Em preparação
-
-- **Recettear: An Item Shop's Tale** — 7.631 textos traduzidos, pacote em
-  construção.
 
 ---
 
