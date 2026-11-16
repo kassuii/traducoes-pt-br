@@ -20,6 +20,7 @@ Feitas por **kassuii**.
 | [Recettear: An Item Shop's Tale](jogos/recettear.md) | 7.631 | instalador |
 | [Warcraft III: The Frozen Throne](jogos/warcraft-iii.md) | 5.735 | instalador |
 | [Natural Selection 2](jogos/natural-selection-2.md) | 3.666 | instalador |
+| [Cineris Somnia](jogos/cineris-somnia.md) | 2.548 | instalador |
 | [Horticular](jogos/horticular.md) | 1.991 | Oficina Steam ou instalador |
 | [Chantelise: A Tale of Two Sisters](jogos/chantelise.md) | 1.397 | instalador |
 
