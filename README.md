@@ -23,6 +23,7 @@ Feitas por **kassuii**.
 | [Cineris Somnia](jogos/cineris-somnia.md) | 2.548 | instalador |
 | [My Little Blacksmith Shop](jogos/my-little-blacksmith-shop.md) | 2.533 | instalador |
 | [Horticular](jogos/horticular.md) | 1.991 | Oficina Steam ou instalador |
+| [Staxel](jogos/staxel.md) | 1.931 | instalador |
 | [Chantelise: A Tale of Two Sisters](jogos/chantelise.md) | 1.397 | instalador |
 | [Paratopic](jogos/paratopic.md) | 607 | instalador |
 | [Dungeon Merchant](jogos/dungeon-merchant.md) | 378 | instalador |
