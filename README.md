@@ -21,8 +21,11 @@ Feitas por **kassuii**.
 | [Warcraft III: The Frozen Throne](jogos/warcraft-iii.md) | 5.735 | instalador |
 | [Natural Selection 2](jogos/natural-selection-2.md) | 3.666 | instalador |
 | [Cineris Somnia](jogos/cineris-somnia.md) | 2.548 | instalador |
+| [My Little Blacksmith Shop](jogos/my-little-blacksmith-shop.md) | 2.533 | instalador |
 | [Horticular](jogos/horticular.md) | 1.991 | Oficina Steam ou instalador |
 | [Chantelise: A Tale of Two Sisters](jogos/chantelise.md) | 1.397 | instalador |
+| [Paratopic](jogos/paratopic.md) | 607 | instalador |
+| [Dungeon Merchant](jogos/dungeon-merchant.md) | 378 | instalador |
 
 Os arquivos ficam na página de **[Releases](../../releases)**.
 
@@ -74,8 +77,12 @@ explicitamente autorizado tentar entrar no pacote, a montagem falha.
 Se o jogo for atualizado e ganhar textos novos, eles simplesmente ficam em
 inglês. Nada vira texto trocado de lugar, e a tradução sobrevive à atualização.
 
-Todo instalador faz backup do arquivo original antes de mexer, e tem
-`-Desinstalar` para voltar ao estado de fábrica.
+Todo instalador que precisa mexer num arquivo do jogo faz backup antes, e todos
+têm `-Desinstalar` para voltar ao estado de fábrica.
+
+O My Little Blacksmith Shop é a exceção boa: lá a tradução é um arquivo novo que
+a Unreal carrega por cima do pacote original, então nenhum arquivo do jogo chega
+a ser alterado e não existe backup porque não há o que salvar.
 
 ---
 
