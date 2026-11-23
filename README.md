@@ -22,6 +22,7 @@ Feitas por **kassuii**.
 | [Warcraft III: The Frozen Throne](jogos/warcraft-iii.md) | 5.735 | instalador |
 | [Weapon Shop Fantasy](jogos/weapon-shop-fantasy.md) | 3.864 | instalador |
 | [Natural Selection 2](jogos/natural-selection-2.md) | 3.666 | instalador |
+| [Majesty Gold Edition](jogos/majesty-gold-edition.md) | 2.595 | instalador |
 | [Cineris Somnia](jogos/cineris-somnia.md) | 2.548 | instalador |
 | [My Little Blacksmith Shop](jogos/my-little-blacksmith-shop.md) | 2.533 | instalador |
 | [Horticular](jogos/horticular.md) | 1.991 | Oficina Steam ou instalador |
