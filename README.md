@@ -17,6 +17,7 @@ Feitas por **kassuii**.
 | [Xuan-Yuan Sword VI: The Gate of Firmament](jogos/xuan-yuan-sword-vi.md) | 24.904 | instalador |
 | [Little Goody Two Shoes](jogos/little-goody-two-shoes.md) | 16.998 | instalador |
 | [Let's School](jogos/lets-school.md) | 12.832 | instalador |
+| [Sword and Fairy Inn 2](jogos/sword-and-fairy-inn-2.md) | 10.507 | instalador |
 | [Crossroads Inn](jogos/crossroads-inn.md) | 7.973 | instalador |
 | [Recettear: An Item Shop's Tale](jogos/recettear.md) | 7.631 | instalador |
 | [Warcraft III: The Frozen Throne](jogos/warcraft-iii.md) | 5.735 | instalador |
@@ -69,9 +70,9 @@ Duas regras valem para todas as traduções daqui:
 **1. O pacote nunca contém arquivo do jogo.**
 
 O que você baixa tem só o instalador e os textos em português. Nada de conteúdo
-original do jogo — redistribuir isso está fora de questão. Na prática, o
-instalador lê o arquivo de idioma da *sua* cópia e escreve o português por cima,
-na sua máquina.
+original do jogo — redistribuir isso está fora de questão. Na maioria dos casos
+o instalador lê o arquivo de idioma da *sua* cópia e escreve o português por
+cima, na sua máquina.
 
 Cada projeto tem uma lista branca com `throw`: se um arquivo que não está
 explicitamente autorizado tentar entrar no pacote, a montagem falha.
@@ -84,9 +85,12 @@ inglês. Nada vira texto trocado de lugar, e a tradução sobrevive à atualiza�
 Todo instalador que precisa mexer num arquivo do jogo faz backup antes, e todos
 têm `-Desinstalar` para voltar ao estado de fábrica.
 
-O My Little Blacksmith Shop é a exceção boa: lá a tradução é um arquivo novo que
-a Unreal carrega por cima do pacote original, então nenhum arquivo do jogo chega
-a ser alterado e não existe backup porque não há o que salvar.
+O **My Little Blacksmith Shop** e o **Sword and Fairy Inn 2** são as exceções
+boas: nos dois a tradução é um arquivo novo que a Unreal carrega por cima dos
+pacotes originais, então nenhum arquivo do jogo chega a ser alterado e não existe
+backup porque não há o que salvar. Nesses dois o download já traz a tabela de
+texto pronta — montada a partir da tabela em inglês do jogo, com o conteúdo de
+cada entrada trocado — e o instalador só copia um arquivo e confere o SHA-256.
 
 ---
 
